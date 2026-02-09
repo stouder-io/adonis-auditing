@@ -2,7 +2,6 @@
 > @stouder-io/adonis-auditing moved to @adogrove/adonis-auditing, please see [https://adogrove.stouder.io/](https://adogrove.stouder.io/)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/StouderIO/adonis-auditing/main/.github/images/header.png" />
   <h3>@stouder-io/adonis-auditing</h3>
   <p>Audit your Lucid models with ease.</p>
   <a href="https://www.npmjs.com/package/@stouder-io/adonis-auditing">
